@@ -6,4 +6,4 @@ Error images (Frame Difference image) , original frame after global motion compe
 - Hyperparameter : DeltaT <integer> (Difference between the frame of measurement)
 
 # How to run 
-- Python run_estimation.py <video file path> <DeltaT> 
+- Python run_estimation.py <\video file path\> <DeltaT> 
